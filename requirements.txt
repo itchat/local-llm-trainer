@@ -1,0 +1,4 @@
+anthropic==0.3.11
+chromadb==0.4.8
+langchain==0.0.276
+sentence-transformers==2.2.2
